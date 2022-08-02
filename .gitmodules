@@ -1,6 +1,8 @@
 [submodule "bs-hefa-designer-store"]
 	path = bs-hefa-designer-store
 	url = git@github.com:abuabdirohman4/bs-hefa-designer-store.git
+	branch = main
 [submodule "bs-sinaw-online-course"]
 	path = bs-sinaw-online-course
 	url = git@github.com:abuabdirohman4/bs-sinaw-online-course.git
+	branch = develop
