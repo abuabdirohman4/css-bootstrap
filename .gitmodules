@@ -6,3 +6,8 @@
 	path = bs-sinaw-online-course
 	url = git@github.com:abuabdirohman4/bs-sinaw-online-course.git
 	branch = develop
+[submodule "bs-kaula-nft"]
+	path = bs-kaula-nft
+	url = git@github.com:abuabdirohman4/bs-kaula-nft.git
+	branch = master
+
