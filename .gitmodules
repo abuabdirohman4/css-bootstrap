@@ -10,4 +10,7 @@
 	path = bs-kaula-nft
 	url = git@github.com:abuabdirohman4/bs-kaula-nft.git
 	branch = master
-
+[submodule "bs-carousel-card"]
+	path = bs-carousel-card
+	url = git@github.com:abuabdirohman4/bs-carousel-card
+	branch = master
